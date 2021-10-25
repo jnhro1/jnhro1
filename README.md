@@ -6,9 +6,16 @@
 👋 매일의 성장과 도전을 즐기는 JavaScript 개발자, Jorang 입니다. 😳<br><br>
 배운 것을 기록하는 것을 좋아합니다.🤩<br>
 다양한 사람들과 소통하며 인사이트를 넓혀나가는 것을 좋아합니다.🧐<br>
-매일 블로그 포스팅 업로드중이니 많은 소통과 피드백 환영입니다🥰
+매일 블로그 포스팅 업로드중이니 많은 소통과 피드백 환영입니다🥰<br>
 
 <br>
+
+1일 1스트레칭 추천 플랫폼 <b>MOVESTER</b> 개발중입니다. 🏃<br>
+매일 색다른 스트레칭 알람이 울립니다. 카카오톡 오픈채팅을 통해 참여해보세요!👐<br>
+<a href="https://open.kakao.com/o/gtZLyR0c" target="_blank"><img src="https://img.shields.io/badge/공지방🏋🏻[MUS]뭅스터-9994c4?style=flat-square&logo=Exercism&logoColor=white"/></a>
+<a href="https://open.kakao.com/o/gtZLyR0c" target="_blank"><img src="https://img.shields.io/badge/뭅스터블로그-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+<br><br>
 
 ## 👊 Skills
 
