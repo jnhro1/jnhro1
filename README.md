@@ -1,4 +1,4 @@
-<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF9933?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
+<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/기술블로그-FF9933?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
 <a href="mailto:jnhro1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jnhro1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>
