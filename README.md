@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-FF9933?style=flat-square&logo=BLOG&logoColor=white"/></a>
+### 👊 Skills
+
+<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-FF9933?style=flat-square&logo=BLOG&logoColor=white"/></a>
 
 <!--
 **jnhro1/jnhro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
