@@ -1,4 +1,10 @@
-<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-FF9933?style=flat-square&logo=BLOG&logoColor=white"/></a>
+<a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9933?style=flat-square&logo=Bloglovin&logoColor=white"/></a>
+<a href="mailto:jnhro1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnhro1&theme=onedark&show_icons=true)
+
 ### 👊 Skills
 
 <a href="https://jnhro1.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bloglovin-FF9933?style=flat-square&logo=BLOG&logoColor=white"/></a>
