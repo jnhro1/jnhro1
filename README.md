@@ -3,16 +3,16 @@
 
 <br>
 
-👋 매일의 성장과 도전을 즐기는 JavaScript 개발자, Jorang 입니다. 😳<br>
+👋 매일의 성장과 도전을 즐기는 JavaScript 개발자, Jorang 입니다. 😳<br><br>
 배운 것을 기록하는 것을 좋아합니다.🤩<br>
 다양한 사람들과 소통하며 인사이트를 넓혀나가는 것을 좋아합니다.🧐<br>
 매일 블로그 포스팅 업로드중이니 많은 소통과 피드백 환영입니다🥰
 
 <br>
 
-### 👊 Skills
+## 👊 Skills
 
-<b>Platforms & Languages</b> <br>
+### Platforms & Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <br>
-<b>Tools</b><br>
+
+### Tools
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
