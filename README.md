@@ -12,7 +12,7 @@
 <br>
 
 
-1일 1스트레칭 습관 만들기  <b>[MOVESTER](https://movester.kr)</b> 운영중입니다. 🏃
+1일 1스트레칭 습관 만들기  <b><a href="https://movester.kr" target="_blank">MOVESTER</a></b> 운영중입니다. 🏃
 
 
 `MOVE` : 부담스러운 운동은 NO! 
