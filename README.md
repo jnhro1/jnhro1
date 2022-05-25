@@ -3,11 +3,12 @@
 
 <br>
 
-👋 매일의 성장과 도전을 즐기는 `Node.js Back-End Developer` <b>조나현</b> 입니다. 😳<br><br>
+👋 안녕하세요! 개발로 더 편리한 세상을 만들고자 노력하는 `Node.js Back-End Developer` <b>조나현</b> 입니다. 😳<br><br>
 - 좋은 서비스를 제공하기 위해 BE/FE 모두 관심을 가지고 공부중입니다.
 - 가독성 좋은 코드를 짜기 위한 고민을 하며, 리팩토링을 습관화합니다.
 - 다양한 사람들과 소통하며 인사이트를 넓혀나가는 것을 좋아합니다.🧐
-- 기술블로그를 통해 배운 것을 기록하고 있습니다. 많은 소통과 피드백 환영입니다.🥰
+- 배운 것을 기억하고, 공유하기 위해 기술블로그를 운영하고 있습니다. 많은 소통과 피드백 환영입니다.🥰
+- 일할 때는 워커홀릭, 놀 때는 유머홀릭으로 즐겁게 코딩합니다.
 
 <br>
 
@@ -20,7 +21,7 @@
 `START` : 가볍게 스트레칭으로 시작하세요!
 
 `WITH, TOGETHER` : 혼자가 아닌 뭅스터와 같이, 함께해요!👐<br><br>
-<a href="https://movester.kr" target="_blank"><img src="https://img.shields.io/badge/MOVESTER 웹사이트 🏋-9994c4?style=flat-square&logo=&logoColor=white"/></a>&nbsp;
+<a href="https://movester.kr" target="_blank"><img src="https://img.shields.io/badge/MOVESTER 웹서비스 🏋-9994c4?style=flat-square&logo=&logoColor=white"/></a>&nbsp;
 
 <br><br>
 
